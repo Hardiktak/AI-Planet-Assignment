@@ -5,8 +5,15 @@ langchain-community==0.0.38
 faiss-cpu
 sympy
 numpy
+Pillow
+python-dotenv
 pandas
 tiktoken
-python-dotenv
+
+# OCR
+pytesseract
+easyocr
+
+# Whisper
+openai-whisper
 pydub
-Pillow

@@ -1,0 +1,23 @@
+venv/
+
+# Environment
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+# Data (generated at runtime)
+data/
+*.db
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
